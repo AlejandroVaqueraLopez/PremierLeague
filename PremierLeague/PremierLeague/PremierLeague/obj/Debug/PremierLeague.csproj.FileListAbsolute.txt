@@ -1,0 +1,21 @@
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\bin\Debug\PremierLeague.exe.config
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\bin\Debug\PremierLeague.exe
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\bin\Debug\PremierLeague.pdb
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.AssemblyReference.cache
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.SuggestedBindingRedirects.cache
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.Form1.resources
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.Properties.Resources.resources
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.GenerateResource.cache
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.CoreCompileInputs.cache
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.exe
+C:\Users\jelizarraga\OneDrive - IT STEP ACADEMY INTERNATIONAL S.C\Tercero\2023\Practicas\PremierLeague\PremierLeague\obj\Debug\PremierLeague.pdb
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\bin\Debug\PremierLeague.exe.config
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\bin\Debug\PremierLeague.exe
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\bin\Debug\PremierLeague.pdb
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.AssemblyReference.cache
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.Form1.resources
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.Properties.Resources.resources
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.GenerateResource.cache
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.CoreCompileInputs.cache
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.exe
+C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.pdb
