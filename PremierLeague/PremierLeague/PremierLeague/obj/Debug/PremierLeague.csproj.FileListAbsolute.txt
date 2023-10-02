@@ -19,3 +19,13 @@ C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\D
 C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.CoreCompileInputs.cache
 C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.exe
 C:\Users\Vacintosh\Downloads\PremierLeague (1)\PremierLeague\PremierLeague\obj\Debug\PremierLeague.pdb
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\bin\Debug\PremierLeague.exe.config
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\bin\Debug\PremierLeague.exe
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\bin\Debug\PremierLeague.pdb
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.AssemblyReference.cache
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\obj\Debug\PremierLeague.Form1.resources
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\obj\Debug\PremierLeague.Properties.Resources.resources
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.GenerateResource.cache
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\obj\Debug\PremierLeague.csproj.CoreCompileInputs.cache
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\obj\Debug\PremierLeague.exe
+C:\Users\Vacintosh\Documents\projects\PremierLeagueRepo\PremierLeague\PremierLeague\PremierLeague\obj\Debug\PremierLeague.pdb

@@ -76,7 +76,36 @@ public class Game
 
     public static List<Game> GetAll()
     {
-        return new List<Game>();
+        List<Game> list = new List<Game>();
+        //query
+        string query = @"Select Id, Datetime, LocalId, VisitorId, Status From Games";
+        //command
+        SqlCommand command = new SqlCommand(query);
+        //execute command
+        DataTable table = SqlServerConection.ExecuteQuery(command);
+
+        int count = 0;
+
+        if (table.Rows.Count > 0)
+        {
+            while (count < table.Rows.Count)
+            {
+                DataRow row = table.Rows[count];
+                Game data = new Game();
+                data.Id = Convert.ToInt32(row["Id"]);
+                data.DateTime = Convert.ToDateTime(row["Datetime"]);
+                data.LocalId = new Team(Convert.ToInt32(row["LocalId"]));
+                data.VisitorId = new Team(Convert.ToInt32(row["VisitorId"]));
+                data.Status = Convert.ToBoolean(row["Status"]);
+                list.Add(data);
+                count++;
+            }
+        }
+        else
+        {
+            //MessageBox.Show("Record not found");
+        }
+        return list;
     }
 
     //add
